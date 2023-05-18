@@ -1,0 +1,21 @@
+{
+  "name": "break-even-point",
+  "version": "1.0.0",
+  "description": "Calculate the Break Even Point",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "break",
+    "even",
+    "point"
+  ],
+  "author": "sophiaaltindas@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
