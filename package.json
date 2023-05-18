@@ -1,6 +1,6 @@
 {
   "name": "break-even-point",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate the Break Even Point",
   "main": "index.js",
   "scripts": {
