@@ -8,13 +8,19 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophiaaltindas/break-even-point.git"
+  },
   "keywords": [
     "break",
     "even",
-    "point"
+    "point",
+    "calculator"
   ],
   "author": "sophiaaltindas@gmail.com",
   "license": "MIT",
+  "homepage": "https://github.com/sophiaaltindas/break-even-point/#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   }
